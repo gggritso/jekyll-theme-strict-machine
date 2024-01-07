@@ -1,0 +1,11 @@
+blockquote {
+  position: relative;
+  margin-left: 0;
+
+  &:before {
+    content: ">";
+    position: absolute;
+    left: 0;
+    transform: translateX(calc(-100% - 1em));
+  }
+}
