@@ -1,6 +1,6 @@
 # jekyll-theme-strict-machine
 
-A minimal Jekyll theme inspired by Markdown editors like IA Writer.
+A minimal Jekyll theme inspired by Markdown editors like iA Writer.
 
 ## Installation
 
